@@ -9,7 +9,7 @@ env:
   comment: "MacTex Setup"
   url: "https://mirror.ctan.org/systems/mac/mactex/MacTeX.pkg"
   file_name: "MacTex.pkg"
-  piece_size: 4 194 304 # Check the README.md for recommended piece size
+  piece_size: 4096 KiB # Check the README.md for recommended piece size
       
 jobs:
   create:
