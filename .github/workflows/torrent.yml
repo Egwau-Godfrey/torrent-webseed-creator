@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "MacTex"
+  name: "Logic Pro"
   comment: "MacTex Setup"
-  url: "https://mirror.ctan.org/systems/mac/mactex/MacTeX.pkg"
-  file_name: "MacTex.pkg"
+  url: "https://www.apple.com/logic-pro/trial/download/"
+  file_name: "LogicPro.pkg"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
