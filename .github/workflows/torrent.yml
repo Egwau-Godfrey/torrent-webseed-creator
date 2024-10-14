@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Logic Pro"
+  name: "Anime File"
   comment: "MacTex Setup"
-  url: "https://www.apple.com/logic-pro/trial/download/"
-  file_name: "LogicPro.pkg"
+  url: "https://drive.google.com/drive/folders/1eAQKMNt3zsiN8IsoMnc4IqA40yjdGeI8?usp=sharing_eip&ts=670d0719"
+  file_name: "AnimeFile.zip"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
